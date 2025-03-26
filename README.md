@@ -3,6 +3,7 @@
 A dynamic web application that provides comprehensive information about countries worldwide with beautiful visualizations and interactive features.
 ## Live Demo
 Check out the live version: ([World Explorer Demo](http://goldensash.tech/))
+
 Check out Youtube tutorial: ([World Explorer Demo](http://goldensash.tech/))
 
 Contact

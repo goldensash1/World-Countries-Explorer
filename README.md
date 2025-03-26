@@ -7,7 +7,8 @@ Check out the live version: ([World Explorer Demo](http://goldensash.tech/))
 Check out Youtube tutorial: ([World Explorer Demo](http://goldensash.tech/))
 
 Contact
-Your Name - Golden Sash Munyankindi - s.munyankin@alustudent.com
+- Golden Sash Munyankindi
+- s.munyankin@alustudent.com
 
 Project Link: [https://github.com/your-username/world-explorer](https://github.com/goldensash1/World-Countries-Explorer.git)
 ## Features

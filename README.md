@@ -4,7 +4,7 @@ A dynamic web application that provides comprehensive information about countrie
 ## Live Demo
 Check out the live version: ([World Explorer Demo](http://goldensash.tech/))
 
-Check out Youtube tutorial: ([World Explorer Demo](http://goldensash.tech/))
+Check out Youtube Demo: ([World Explorer Demo]([http://goldensash.tech/](https://youtu.be/u_lMXOi_rgA)))
 
 Contact
 - Golden Sash Munyankindi

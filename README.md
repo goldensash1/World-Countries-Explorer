@@ -28,7 +28,7 @@ Project Link: [https://github.com/your-username/world-explorer](https://github.c
 ## Technologies Used
 
 **Data Source:**
-- This project uses the REST Countries API to fetch real-time data about countries. Huge thanks to the developers of this API for providing reliable and detailed information!
+- This project uses the [REST Countries API](https://restcountries.com/) to fetch real-time data about countries. Huge thanks to the developers of this API for providing reliable and detailed information!
 
 **Frontend:**
 - HTML5, CSS3, JavaScript (ES6+)
